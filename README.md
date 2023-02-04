@@ -22,8 +22,8 @@
         display: block;
         margin: 0 auto;
         padding: 20px;
-        background-color: green;
-        color: white;
+        background-color: blue;
+        color: black;
         text-align: center;
         font-size: 18px;
         text-decoration: none;
