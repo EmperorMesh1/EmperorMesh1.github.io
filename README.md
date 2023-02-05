@@ -23,7 +23,7 @@
         margin: 0 auto;
         padding: 20px;
         background-color: blue;
-        color: black;
+        color: white;
         text-align: center;
         font-size: 18px;
         text-decoration: none;
